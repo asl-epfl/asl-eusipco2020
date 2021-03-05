@@ -1,6 +1,9 @@
+## Release v1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4585904.svg)](https://doi.org/10.5281/zenodo.4585904)
+
+
 This code can be used to generate simulations similar to Figs. 1, 2, 3, 4 and 5 in the following paper:
 
-Virginia Bordignon, Vincenzo Matta, and Ali H. Sayed,  "Adaptation in online social learning,''  Proc. EUSIPCO, pp. 1-5, Amsterdam, The Netherlands, August 2020.
+Virginia Bordignon, Vincenzo Matta, and Ali H. Sayed,  "Adaptation in online social learning,''  Proc. EUSIPCO, pp. 1-5, Amsterdam, The Netherlands, August 2020. [![DOI:10.23919/Eusipco47968.2020.9287445](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.23919/Eusipco47968.2020.9287445)
 
 Fig. 1 is generated executing file 'codefig1.py'.
 
